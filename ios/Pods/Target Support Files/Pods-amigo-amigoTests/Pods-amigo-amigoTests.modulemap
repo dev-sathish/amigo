@@ -1,0 +1,6 @@
+module Pods_amigo_amigoTests {
+  umbrella header "Pods-amigo-amigoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
